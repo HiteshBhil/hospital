@@ -60,7 +60,7 @@ const Footer = () => {
                             © Copyright <strong><span>City Multispeciality Hospital</span></strong>. All Rights Reserved
                         </div>
                         <div className="credits">
-                            Designed by <NavLink to="/">Ankil Gajera</NavLink>
+                            Designed by <NavLink to="/">Hitesh Bhil</NavLink>
 
                         </div>
                     </div>
